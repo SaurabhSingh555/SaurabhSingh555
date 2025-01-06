@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saurabh Singh</h1>
-<h3 align="center">A passionate Mobile App developer from India.</h3>
+<h3 align="center">A passionate Mobile App developer and Machine Learning from India.</h3>
 
 ![image](https://github.com/user-attachments/assets/57583eb1-eb25-4aa4-a80e-785960388c13)
 
